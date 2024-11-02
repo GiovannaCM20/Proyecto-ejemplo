@@ -1,0 +1,2 @@
+#Ignorara todos los archivos con extension .loh
+*.log
